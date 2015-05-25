@@ -12,19 +12,14 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: 党洁的博客
 
-description: Stylish Jekyll Theme
+description: 党洁的博客 关注移动互联网开发 开源爱好者
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
-
+  name: 党洁
+  email: 418696850@qq.com
+  github: jiedang
+  
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
