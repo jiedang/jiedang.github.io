@@ -242,7 +242,7 @@ ViewRootImpl.performDraw->ViewRootImpl.draw->ViewGroup.dispatchDraw->ViewGroup.d
 
 附1：
 dispatchDraw流程
-![dispatchDraw流程](http://a3.qpic.cn/psb?/V13H8b7h0BuonU/XSqMenACRBJVjtNJHF0TMdo58xRB5zjcCgBsM0g0LnU!/b/dCAAAAAAAAAA&bo=4gKAAgAAAAADB0A!&rf=viewer_4)
+![dispatchDraw流程](http://note.youdao.com/yws/res/286/72E78FD4644B42038FD575915B49BD23)
 
 附2：如果调用startAnimation，那么只有当该View和屏幕区域有交集，且可见时才会执行动画。否则不会执行，除非定时调用invalidate的方式。
 同时根据以上的源码分析，可以解释一些Animation上的一些诡异情况：
