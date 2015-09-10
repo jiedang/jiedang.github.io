@@ -7,7 +7,6 @@ description: lauch mode和intent flag动态控制activity堆栈状态.
 ---
 ## 启动模式 lauchmode
 
-
 在开启activity后 由activityXML中配置的默认模式 决定其所在的堆栈状态 和 退栈顺序
 
 
